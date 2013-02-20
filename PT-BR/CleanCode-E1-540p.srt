@@ -12,19 +12,19 @@ e isto é ... Código limpo
 
 4
 00:00:49,723 --> 00:00:53,127
-Vamos seguir o stargazer velho mantra:
+Vamos seguir o a história padrão:
 
 5
 00:00:53,148 --> 00:00:55,830
-começou aqui no balde da Ursa Maior,
+começamos aqui na Ursa Maior,
 
 6
 00:00:56,080 --> 00:01:03,576
-desenhar um arco para cima e parou em Arthur Tang
+desenhar um arco e parar em Arcturus e acelerar até a estrela Espiga
 
 7
 00:01:03,865 --> 00:01:10,472
-Pulamos seis graus oeste (aproximadamente a distância entre os dedos se o braço extendo),
+Pulamos seis graus para oeste
 
 8
 00:01:10,722 --> 00:01:14,536
@@ -40,7 +40,7 @@ Isso significa que, em uma noite muito escura você provavelmente poderia vê-lo a
 
 11
 00:01:27,469 --> 00:01:31,613
-Com binóculos certamente ver um local borrada no céu
+Com binóculos certamente verá uma mancha no céu
 
 12
 00:01:31,863 --> 00:01:35,584
@@ -48,11 +48,11 @@ e com um bom telescópio ... Bem, olhe para isso,
 
 13
 00:01:35,571 --> 00:01:42,307
-é um anel galáxia gloriosa em um pacote fino
+é uma galáxia gloriosa em forma de anel e olhe esse bulbo brilhante
 
 14
 00:01:42,557 --> 00:01:48,898
-e olhar para a estrada de terra brilhante proeminente passando por ele. Que vista!
+e observe a estrada de terra brilhante proeminente passando por ela. Que vista!
 
 15
 00:01:49,148 --> 00:01:55,705
@@ -86,16 +86,16 @@ O material brilhante é quente, está emitindo radiação infravermelha,
 
 22
 00:02:32,003 --> 00:02:38,742
-Poeira da estrada se parece com um anel e este anel tem 30 mil  anos-luz de diâmetro.
+A estrada de poeira se parece com um anel e este anel tem 30 mil anos-luz de diâmetro.
 
 23
 00:02:38,992 --> 00:02:43,688
-Você pode ver que o buraco negro central é também
-emitir uma grande quantidade de radiação infravermelha,
+Você pode ver que o buraco negro central também
+emite uma grande quantidade de radiação infravermelha,
 
 24
 00:02:43,938 --> 00:02:47,322
-mas olhar para a área no meio, é vazio!
+mas olhe para a área no meio, está vazio!
 
 25
 00:02:47,372 --> 00:02:49,459
@@ -103,12 +103,12 @@ Como você pode ser tão vazio?
 
 26
 00:02:49,709 --> 00:02:55,262
-Quando combinamos as duas imagens que obtemos
-algo que se parece com uma explosão em um filme de ficção científica,
+Quando combinamos as duas imagens o que obtemos
+se parece com uma explosão em um filme de ficção científica,
 
 27
 00:02:55,512 --> 00:02:57,759
-como se um planeta estava explodindo.
+como se um planeta estivesse explodindo.
 
 28
 00:02:58,009 --> 00:03:01,730
@@ -120,7 +120,7 @@ Por que está tão vazio?
 
 30
 00:03:03,425 --> 00:03:12,168
-Será que o buraco negro explodiu seu topo em um quasar a 
+Será que o buraco negro explodiu em um quasar a 
 um bilhão de anos atrás empurrando tudo para fora do anel?
 
 31
@@ -138,7 +138,7 @@ Código limpo: Será que isso importa?
 34
 00:03:32,067 --> 00:03:37,628
 É um livro escrito por Kent Beck. Livro
-ótimo se você quiser saber mais sobre código bom e hábitos.
+ótimo se você quiser saber mais sobre bons hábitos de programação.
 
 35
 00:03:37,878 --> 00:03:42,818
@@ -146,7 +146,7 @@ Mas neste livro, Kent diz que está baseado em uma premissa frágil.
 
 36
 00:03:42,868 --> 00:03:45,674
-Que código bom importa.
+Que um código bem feito importa.
 
 37
 00:03:45,924 --> 00:03:48,902
@@ -170,11 +170,11 @@ Eu usei um depurador que trabalhou com C
 
 42
 00:04:03,652 --> 00:04:07,129
-Ela foi feita por uma empresa chamada Sword Inc.
+Ele foi feito por uma empresa chamada Sword Inc.
 
 43
 00:04:07,379 --> 00:04:11,495
-Ele era poderoso e que nos salvou um monte de tempo e esforço.
+Ele era poderoso, e nos salvou um monte de tempo e esforço.
 
 44
 00:04:11,806 --> 00:04:17,043
@@ -298,7 +298,7 @@ Um ou dois anos mais tarde, as coisas começaram a desacelerar.
 
 73
 00:06:34,257 --> 00:06:38,233
-Quanto mais você trabalhava, mais as coisas parecem ir devagar.
+Quanto mais você trabalhava, mais as coisas pareciam ir devagar.
 
 74
 00:06:38,483 --> 00:06:42,610
@@ -306,7 +306,7 @@ E por quê? Pela bagunça que cresceu no código,
 
 75
 00:06:42,860 --> 00:06:48,426
-e andar por essa bagunça que começou a te atrasar, e atrasar muito! 
+e andar por essa bagunça começou a te atrasar, e atrasar muito! 
 
 76
 00:06:48,676 --> 00:06:51,586
@@ -314,7 +314,7 @@ Esta alta produtividade que você gostava no início
 
 77
 00:06:51,636 --> 00:06:56,995
-despencou. Coisas que antes levavam horas agora levam dias,
+Despencou. Coisas que antes levavam horas agora levam dias,
 
 78
 00:06:56,945 --> 00:07:00,642
@@ -330,7 +330,7 @@ Gerentes estavam preocupados,
 
 81
 00:07:06,904 --> 00:07:12,053
-afinal, tinha feito planos com base em sua alta produtividade inicial
+afinal, tinham feito planos com base em sua alta produtividade inicial
 
 82
 00:07:12,303 --> 00:07:15,792
@@ -425,7 +425,7 @@ e autorizaram um redesign de todo o projeto.
 103
 00:08:46,762 --> 00:08:51,722
 Para os desenvolvedores, no entanto, foi como
-a raiar de um novo dia.
+o raiar de um novo dia.
 
 104
 00:08:51,772 --> 00:08:54,848
@@ -454,25 +454,25 @@ O resto de nós odiava esses caras, porque
 
 110
 00:09:13,483 --> 00:09:18,030
-os clientes não iriam esperar a equipe especial
-terminar o que estavam fazendo,
+os clientes não iriam esperar os gurus
+terminarem o que estavam fazendo,
 
 111
 00:09:18,080 --> 00:09:20,924
-clientes precisam de correções de bugs e novas funcionalidades,
+eles precisavam de correções de bugs e novas funcionalidades,
 
 112
 00:09:21,174 --> 00:09:25,104
 assim teríamos que nos arrastar pela lama,
- enquanto a equipe especial
+ enquanto os gurus
 
 113
 00:09:25,354 --> 00:09:27,356
-estava fora fazendo alguma coisa a partir do zero.
+estavam lá fazendo alguma coisa limpa a partir do zero.
 
 114
 00:09:28,817 --> 00:09:32,002
-Enquanto isso o time especial precisava de requisitos do sistema
+Enquanto isso os gurus precisavam de requisitos do sistema
 
 115
 00:09:32,252 --> 00:09:34,254
@@ -480,11 +480,11 @@ e onde você acha que eles estavam?
 
 116
 00:09:34,504 --> 00:09:36,506
-Você acha que existia um documento de requisitos?
+Você acha que existiam documentos de requisitos?
 
 117
 00:09:36,756 --> 00:09:38,921
-Mesmo se houvesse, você acha que ele estaria preciso?
+Mesmo se houvesse, você acha que eles estariam precisos?
 
 118
 00:09:39,171 --> 00:09:46,977
@@ -501,7 +501,7 @@ no código do antigo sistema
 
 121
 00:09:54,378 --> 00:10:00,932
-e agora, a equipe especial teve que rastejar
+e agora, os gurus tiveram que rastejar
 no código do sistema antigo tentando entender
 
 122
@@ -514,7 +514,7 @@ e assim começou uma corrida como Aquiles e a tartaruga no paradoxo de Zenão.
 
 124
 00:10:09,343 --> 00:10:14,260
-Toda vez que a equipe especial chegava onde sistema antigo havia parado
+Toda vez que os gurus chegavam onde sistema antigo havia parado
 
 125
 00:10:14,510 --> 00:10:18,742
@@ -551,7 +551,7 @@ um departamento, divisão ou até uma empresa.
 
 133
 00:10:50,605 --> 00:10:54,965
-Mas como? Como pode este código reduzir tanto a produtividade?,
+Mas como? Como pode este código reduzir tanto a produtividade?
 
 134
 00:10:55,215 --> 00:10:56,822
@@ -584,7 +584,7 @@ Antes de ver por que isso ocorre, vamos ver os sintomas.
 
 141
 00:11:28,408 --> 00:11:31,036
-O que tem no código podre que nos atrasa?,
+O que tem no código podre que nos atrasa?
 
 142
 00:11:31,286 --> 00:11:35,785
@@ -613,7 +613,7 @@ e então você tem que fazer ainda mais ajustes em outros lugares
 
 148
 00:12:01,769 --> 00:12:06,447
-Programadores fazem como cães,
+Programadores agem como cães,
 correndo perseguindo o rabo
 
 149
@@ -623,7 +623,7 @@ em todo o código, fazendo mudanças aqui, ali, lá,
 150
 00:12:09,590 --> 00:12:15,166
 possivelmente jogando centenas de diferentes módulos só
-fazer o sistema funcionar novamente.
+para fazer o sistema funcionar novamente.
 
 151
 00:12:16,999 --> 00:12:19,845
@@ -657,7 +657,7 @@ Eles vêem erros estranhos em locais que costumavam funcionar,
 
 158
 00:12:56,305 --> 00:12:59,805
-e estes problemas os deixam eles muito nervosos.
+e estes problemas os deixam muito nervosos.
 
 159
 00:13:00,055 --> 00:13:03,055
@@ -677,12 +677,12 @@ Os desenvolvedores parecem ser incompetente e o sistema parece inconfiável.
 
 163
 00:13:19,625 --> 00:13:26,764
-Um sistema inseparável é um sistema cujo módulos não 
+Um sistema inseparável é um sistema cujo os módulos não 
 podem ser separados e reutilizados para outras coisas.
 
 164
 00:13:27,014 --> 00:13:31,932
-Nós geralmente tentam compor sistemas
+Nós geralmente tentamos compor sistemas
 com módulos que podem ser reutilizados.
 
 165
@@ -698,9 +698,9 @@ Projetistas de sistemas falham em impor os limites dos módulos.
 Os desenvolvedores de software na pressa utilizam atalhos.
 
 168
-00:13:42,098 --> 00:13:47,977
-Esses atalhos muitas vezes ultrapassam os módulos de fronteira vários
-tornando-os inseparáveis, não reutilizável.
+00:13:42,098 --> 00:13:47,600
+Esses atalhos muitas vezes ultrapassam as fronteiras dos módulos
+tornando-os inseparáveis, e assim não reutilizáveis.
 
 169
 00:13:47,977 --> 00:13:50,548
@@ -721,7 +721,7 @@ O pessoal por trás destas portas estão fazendo revisão de código.
 173
 00:14:07,012 --> 00:14:13,031
 Tome um momento para estudar este desenho,
-ele explica com mais trasparência do que minhas palavras poderiam.
+ele explica o que significa opacidade melhor que minhas palavras.
 
 174
 00:14:24,014 --> 00:14:28,040
@@ -738,7 +738,7 @@ Você já foi significativamente impedido por um código ruim?
 
 177
 00:14:41,540 --> 00:14:44,273
-Você é um desenvolvedor de software! É claro que foi.
+Você é um desenvolvedor de software! É claro já que foi.
 
 178
 00:14:44,273 --> 00:14:47,164
@@ -806,7 +806,7 @@ A ironia disso é que
 
 193
 00:15:32,286 --> 00:15:34,172
-é a bagunça que nos atraza
+é a bagunça que nos atrasa
 
 194
 00:15:34,422 --> 00:15:36,727
@@ -859,7 +859,7 @@ Mas mesmo isso é uma ilusão.
 
 206
 00:16:11,867 --> 00:16:15,827
-Se você corre, você vai doer no curto e longo prazo
+Se você correr, será doloroso no curto e no longo prazo
 
 207
 00:16:15,977 --> 00:16:18,613
@@ -887,17 +887,17 @@ você vai ver esse cara se movendo rapidamente
 
 213
 00:16:39,892 --> 00:16:42,451
-as mãos você  quase não vê
+as mãos você quase não vê as mãos
 
 214
 00:16:42,701 --> 00:16:45,588
-Ele sabe exatamente onde estão suas facas
-onde sua comida
+Ele sabe exatamente onde estão suas facas,
+onde está sua comida
 
 215
 00:16:45,838 --> 00:16:49,951
-cada movimento é bem praticada, é
-move-se à velocidade da luz
+cada movimento já foi bem praticado, 
+movendo-se à velocidade da luz
 
 216
 00:16:50,201 --> 00:16:52,236
@@ -906,20 +906,20 @@ move-se à velocidade da luz
 217
 00:16:52,486 --> 00:16:55,767
 chega o momento em que ele pega o seu
-alimentos impecavelmente preparado
+prato impecavelmente preparado
 
 218
 00:16:56,017 --> 00:16:57,846
-e coloca-lo na sua frente.
+e coloca na sua frente.
 
 219
 00:16:58,096 --> 00:17:01,817
-E se você olhar para o seu espaço de trabalho
-você percebe que está sem um grão de sujeira
+E se você olhar para o seu ambiente de trabalho
+você perceberá que está sem um grão de sujeira
 
 220
 00:17:02,067 --> 00:17:04,266
-Ele esteve limpando o tempo todo em que trabalhava
+Ele estava limpando a todo tempo em que trabalhava
 
 221
 00:17:04,516 --> 00:17:06,565
@@ -927,7 +927,7 @@ porque esta é a única maneira
 
 222
 00:17:06,815 --> 00:17:08,179
-ele pode ir mais rápido.
+que ele pode ir mais rápido.
 
 223
 00:17:09,826 --> 00:17:14,193
@@ -935,8 +935,8 @@ Portanto, agora sabemos como código ruim nos impede
 
 224
 00:17:14,443 --> 00:17:18,303
-e sabemos que o único caminho a percorrer
-rápido é indo bem.
+e sabemos que o único caminho 
+a percorrer rápido é indo bem.
 
 225
 00:17:18,553 --> 00:17:20,857
@@ -977,7 +977,7 @@ desperdiçar muitos ciclos
 
 234
 00:18:00,326 --> 00:18:03,628
-Mas o que significa "o código fazer apenas uma coisa"?
+Mas o que significa "o código faz apenas uma coisa"?
 
 235
 00:18:03,878 --> 00:18:08,319
@@ -1142,5 +1142,5 @@ Vamos entrar no episódio II.
 
 273
 00:20:56,824 --> 00:21:05,301
-Deixe cães!, Aqui vamos nós, uh, os cães!, Hum!
+Deixa isso cachorro!, Aqui vamos nós...
 
